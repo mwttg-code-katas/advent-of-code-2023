@@ -10,9 +10,9 @@
 
 ## Solutions
 
-|       Day       |  Puzzle 1  |  Puzzle 2  |
-|:---------------:|:----------:|:----------:|
-| [Day 01][day01] |            |            |
+|       Day       | Puzzle 1 |  Puzzle 2  |
+|:---------------:|:--------:|:----------:|
+| [Day 01][day01] |  35 ms   |            |
 
 
 [comment]: # "List of URLs down below, sorted alphabetically DESC by tag"
