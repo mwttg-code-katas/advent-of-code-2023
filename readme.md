@@ -10,11 +10,11 @@
 
 ## Solutions
 
-|       Day       | Puzzle 1 |  Puzzle 2  |
-|:---------------:|:--------:|:----------:|
-| [Day 01][day01] |  35 ms   |            |
-| [Day 02][day02] |  38 ms   |            |
-| [Day 03][day03] |  90 ms   |            |
+|       Day       | Puzzle 1 | Puzzle 2 |
+|:---------------:|:--------:|:--------:|
+| [Day 01][day01] |  35 ms   |          |
+| [Day 02][day02] |  38 ms   |          |
+| [Day 03][day03] |  90 ms   |  82 ms   |
 
 [comment]: # "List of URLs down below, sorted alphabetically DESC by tag"
 [advent-of-code]: https://adventofcode.com/2023/
