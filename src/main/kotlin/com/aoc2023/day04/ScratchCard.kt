@@ -13,6 +13,8 @@ data class ScratchCard(val id: Int, val winningNumbers: Set<Int>, val numbers: S
         }
     }
 
+    fun copyCount(): Int = numbers.intersect(winningNumbers).size
+
     companion object {
 
         private val regex =

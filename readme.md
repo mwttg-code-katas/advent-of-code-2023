@@ -15,7 +15,7 @@
 | [Day 01][day01] |  35 ms   |  150 ms  |
 | [Day 02][day02] |  38 ms   |  60 ms   |
 | [Day 03][day03] |  90 ms   |  82 ms   |
-| [Day 04][day04] |  80 ms   |          |    
+| [Day 04][day04] |  80 ms   |  6.5 s   |    
 
 [comment]: # "List of URLs down below, sorted alphabetically DESC by tag"
 [advent-of-code]: https://adventofcode.com/2023/
